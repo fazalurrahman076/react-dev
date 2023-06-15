@@ -1,2 +1,6 @@
 # react-dev
-React route based project 
+React route-based project 
+
+```npm i```
+
+```npm run dev```
